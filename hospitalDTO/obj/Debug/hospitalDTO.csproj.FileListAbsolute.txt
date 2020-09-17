@@ -1,0 +1,12 @@
+E:\777\hospitalDTO\bin\Debug\hospitalDTO.dll
+E:\777\hospitalDTO\bin\Debug\hospitalDTO.pdb
+E:\777\hospitalDTO\obj\Debug\hospitalDTO.csproj.CoreCompileInputs.cache
+E:\777\hospitalDTO\obj\Debug\hospitalDTO.dll
+E:\777\hospitalDTO\obj\Debug\hospitalDTO.pdb
+E:\777\hospitalDTO\obj\Debug\hospitalDTO.csprojAssemblyReference.cache
+D:\VUE\hos\hospitalDTO\bin\Debug\hospitalDTO.dll
+D:\VUE\hos\hospitalDTO\bin\Debug\hospitalDTO.pdb
+D:\VUE\hos\hospitalDTO\obj\Debug\hospitalDTO.csprojAssemblyReference.cache
+D:\VUE\hos\hospitalDTO\obj\Debug\hospitalDTO.csproj.CoreCompileInputs.cache
+D:\VUE\hos\hospitalDTO\obj\Debug\hospitalDTO.dll
+D:\VUE\hos\hospitalDTO\obj\Debug\hospitalDTO.pdb
